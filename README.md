@@ -21,17 +21,4 @@ improved data accuracy.
 ```
 
 ## Contribution
-If you wish to contribute to this project, please feel free to do so. However, it's important to keep in mind that the primary goal of this project is to faithfully replicate the "Mit-Tog" WebApplication offered by BaneDanmark. ([Reference](https://www.mit-tog.dk/en))
-
-Therefore, if you intend to make functional or visual changes that deviate from the original purpose, consider creating your own project using the code provided here.
-
-```
-Please be aware that one of the significant advantages of this application
-is its ability to run locally in a webbrowser without requiring a complicated setup.
-Preserving this functionality would be highly appreciated :)
-```
-
-## Follow me:
-[![linkedin](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SBahnFahrer)
-
-[☕ Buy me a coffe](https://www.buymeacoffee.com/felixnietzold)
+[Look here](https://github.com/hoolycrash/trainboard/)
